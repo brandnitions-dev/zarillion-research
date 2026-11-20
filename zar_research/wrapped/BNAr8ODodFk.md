@@ -1,0 +1,102 @@
+Hey guys, Zesar here. Good morning to you. Happy hump day, June 25th. The market opens in less than
+two minutes. Here's the daily frame, guys. Very bullish, celebratory picture here. for some reason.
+Another up day here this morning, guys, after a very choppy London session, but now very much a
+bullish up day with bullish body. We have just broken above the uh prior day on the S&P as well, but
+a little tiny resting candle on the Dow. Here's my trading grid, guys. Daily 30 minute, one minute
+chart reading from left to right. On the 30-inute chart, guys, you can see the rally in New York
+yesterday, then this sideways consolidation in the overnight through Asia through the first half of
+London, and then finally rallying in here into the New York session, which opens in 1 minute. We are
+in a clean traffic range, guys. That goes back very, very far all the way back to here, which of
+course is in February, end of fe 21st or so of 2025. I'll bring you back after we open here, guys.
+There's the open range, guys. We're looking at 34 and a half points, give or take, on the NASDAQ and
+six points on the S&P. Nothing for me to do. Going to be very patient here as always. Let a bunch of
+candles play out. Possibly have no trades. Just waiting for optimal setups only and going from
+there. On my one minute chart, guys, you can see the Asian open range and the London open range
+almost identical ranges really acted as that consolidation congestion that I showed you earlier and
+then turned into a launching pad here in the second half of the London session. And now there's that
+New York open range just grinding a little bit here. Now, I am going to delete these clean traffic
+arrows to keep my charts nice and clean. Most of you know that I like to have clean charts. And so,
+I'll be watching these 30-inute candles a little more closely. Daily 30 and one multiple time frame
+analysis, guys. Simple, simple stuff. And the S&P guys still very much inside of the open range.
+NASDAQ pushing up. We do have high impact news at 10:00 a.m. And chairman Powell in testimony again.
+And of course yesterday Powell's comment seemed to really rattle and confuse the market a little bit
+there for quite a while. And so we may be in for a repeat. Who knows? S&P very sleepy here this
+morning. Very lackluster here, guys, on the S&P and the NASDAQ, too, for that matter. All of a
+sudden, just been grinding around here. After this nice push up this morning, it does kind of make
+sense that we would rest a little bit here. 9:50 a.m. guys, we have broken below the open range on
+the S&P and the NASDAQ. This is a fairly sudden shift in sentiment. These are shift candles. This is
+an impulse wave down. Impulse wave down. This is choppy, grinding stuff, right? So, the sellers are
+coming in here pretty hard for whatever reason. I'm not looking at news. I don't know if something
+was said. We have a topping tail bearish engulfing candle. Now outside candle for the pre-market
+30-inut candle. It's just part of the story, but that is a wide ranging 30 minute move. And we're
+still inside of that 30-minute candle for another 9 minutes here, guys. Below the open range. Here
+we go. S&P leading the way now. Closing below VWAP, guys. And the 10 a.m. news is out, guys. No
+reaction to that, but Trump is live speaking right now at a press conference at NATO and the
+testimony by Powell has just begun as well. All right, guys. Watching closely here. Just bringing
+out a marker for now. Watching this dance. Clean price action, guys. Inside of the open range. This
+is flowing price action for now. Even though Trump is at the podium, this is an impulse style wave,
+guys. This is not This is choppy alternating meandering crap impulse. And then we rallied into the
+news. This is the news candle right here. 10:00 a.m. and Trump started speaking, Powell started
+speaking, and we've been kind of selling down ever since. These are just one minute candles, so we
+have to keep that into perspective. But impulse, deep corrective, failing to continue to rally
+higher on a bullish day, sliding down here. Now, it's important to note, guys, that when we have a
+bullish day like we do here today and very extended, of course, doesn't mean overextended. We won't
+know if it was overextended until after the fact, of course, in hindsight. Whenever we have a move
+that is pushing higher, a bullish move for instance, and it's very weak and choppy here on the
+massive New York open, and then we get a fairly sudden quick and strong shift in the opposite
+direction, unbroken blue candles that are getting bigger and bigger and bigger into the bottom of
+the open range and then kind of rallying and pulling back in an orderly way into news and then
+continuing down. I need to take the opposite impulses, the opposite shift moves very seriously, at
+least in the short term. And so that's what I'm doing here. But I would certainly need a break into
+New York lows and below the open range to consider taking a short here. And that's what I'm
+demanding from the market here if it's to prove that this change in sentiment is actually real and
+sustainable. [Music] And I'm in, guys. I am in short the NASDAQ against the daily frame and a break
+below prior engulfing 30inut candle. This became a bearish engulfing candle. The body finished
+bullish and now resolving back down again after a sudden and strong bearish shift. corrective failed
+to get to the new high break to a new low. EMAs negatively stacked with nine below 21 declining EMAs
+sequential wave downtrend at this point. Lower highs, lower lows for now. And target one has been
+hit, guys. And so the one hour all or nothing trader has left the game with full profits. And the
+two R move stop to break even at 1 R. Has moved their stop to break even because we hit one R. Now
+we'll wait and see what happens to the rest of this trade. So why am I short, guys? Well, hopefully
+you can see it. Very extended move here on the daily. I am bullish on the daily, but that doesn't
+mean that I can't take shorts. In fact, all price action is made up of flowing and ebbing and ebbing
+and flowing inside of these bigger picture moves. And that's what we have here this morning. There
+we have the flow and then the eb and we're experiencing the eb right now inside of a bullish overall
+daily picture. Daily 30 and one from top to bottom. But most importantly was the fact that we had
+this grinding waning momentum here trying to push higher on the open. And then we had these shift
+candles come in here. One, two, three, four, five, five or six blue candles in a row getting bigger
+and bigger and bigger. The sentiment changed all of a sudden. This is an impulse style move. This is
+grinding, waning momentum after this big move up. And you will notice on the 30-inut chart, guys,
+that we had no breaks of prior 30inut candles coming into the New York open. This is in London. No
+break below. No break. No break. No break. No break. No break. No break. Then we have this smaller
+candle, but still an up candle in the pre-market. And we broke down below after breaking above many
+candles. Started off with this grinding bullish move higher. failed very quickly, topping tail, and
+then broke down. This was actually a bearish engulfing candle. This body was blue for him for a
+while, but I didn't enter on that. That's not enough to fade this incredibly bullish momentum. And
+so I waited for this to play out. The impulse down, the corrective up, failing to make a new high
+and then more impulsing down, more blue candles without any white candles inside. And then breaking
+down below the open range 9 below 21 EMAs dropping and then breaking below that engulfing candle,
+that outside candle. That was the first candle of New York. So that kind of signal what was
+happening here, but then finished with a bullish body. And then we had a failure to break the high
+and then another breakdown below. And that's the point of entry. New low for the New York session.
+Extended move up. Extended move up. First and second break below prior 30-minute candle low. And the
+rest is history. Still no guarantees here, guys. We had Powell's testimony in here, which I believe
+is still going. We had Trump's speech in here, which is now ended. We had a pull back into the open
+range, but thanks to placing my stop above the pivot and above the open range, we didn't even really
+get close to that and now have sold down into 1 R. Now, I will say guys that this is not a no-
+brainer. When you see such a bullish daily, you might think I can only take longs. Obviously, not
+the case. We're playing the intraday footwork inside of an extended move higher. But, as you know, I
+track four models here. are the 1 hour all or nothing, 1 and a half hour all or nothing model, 2our
+all or nothing model and the 2our move stop to break even at 1 hour like I just mentioned to you.
+But the reality is if you are a 1 and a half hour all or nothing trader or a 2our all or nothing
+trader, you may have a rule that you will always shoot for those targets unless you are trading
+against the daily bias. In other words, I am actually bullish in the bigger picture, but I'm taking
+a short here. And so maybe on days like that, you decide I will only aim for one hour targets or one
+and a half hour targets even though I'm a 2 all or nothing trader as a starting place. Hopefully
+that makes sense, guys. Just something to think about and I will bring you back. And target two has
+been hit, guys. So the one and a half hour all or nothing trader has left the game with full profits
+as well. Hey guys saw here back with you in the last hour of trading 303 been in this trade for
+about 5 hours right now guys at 1 R. I'm closing out the two last models the two R all or nothing
+and the 2R move stop to break even at 1 R. See right there that's at one R and that's where I'm
+going to end the day guys. So all four models profitable. I want to thank you for being here and for
+your patience. Have an amazing afternoon and we'll talk to you soon.

@@ -1,0 +1,76 @@
+Hey guys, Zar here. Good morning to you. Hope all is well. Trust you're having a good day. It is
+hump day, Wednesday, July 30th, 9:28. 2 minutes to the New York open. As you can see, we have inside
+days across the board here, guys. NASDAQ, S&P, and Dow. bullish bodies for now, but it is FOMC day,
+interest rate day here at 2 PM this afternoon, followed by the press conference at 2:30. That can
+also move the market. Very often on this day, we have a grinding or nondirectional or manic market
+in wait of the news that comes out later. And so patience is very often the name of the game here
+coming in. So neutral stance here guys with a slightly bullish bias given that it's a bullish body
+coming into the open. This is my trading grid daily 30 minute and one minute chart. On the 30-inut
+chart you can see we had an uneventful Asian session overnight London session as well. And now we
+are kind of sitting in the middle of this range. And so there will likely be nothing for me to do
+unless we get up above here or down below here or something really compelling happens in between
+which is highly unlikely. But anything is possible. This is yesterday's New York session driving
+down and then grinding in the afternoon, selling down into the close, and then some earnings after
+hours. On the one minute chart, guys, you'll see that I am showing the Asian open range from
+overnight where we tested and rejected, tested, tested, tested, tested, tested, and tested and
+rejected higher. This is the London open range and this is the Asian open range from yesterday where
+we rejected here in London. just a little while ago. I'm going to delete that now to keep things
+nice and clean. And it would appear that the New York open range will be dead center or pretty close
+to dead center between the Asian open range and the London open range. Pushing down here now. So
+maybe it'll be a little bit lower than that. And there's the one minute open range, guys. We're
+looking at approximately 25 points for the NASDAQ. Fairly narrow. and six and a half points for the
+S&P. As always, I'm going to be very patient here on the open. Certainly on the big news day like
+FOMC interest rate day. All three open ranges, guys, are inside of that oval. Delete that. Now, I'm
+also going to delete these open ranges to keep things nice and clean. Now, we are driving down below
+all three open ranges. Of course, fairly bearish sign breaking structure here, but not the main
+structure that I'd be more concerned about. I will delete this so marker now, guys, because it
+becomes fairly quickly irrelevant to what I'm looking at. I'll delete this arrow, too, guys. It's
+not a directional call. It's just to identify a fairly clean traffic area. pushing up above the open
+range on the NASDAQ. Stuck in the open range on the S&P. I certainly won't be chasing anything here,
+guys, as long as we are inside of this range. Big wide ranging candle engulfing the two or three
+pre-market 30-minute candles here. My dynamic open range immediately expands to here. In other
+words, my functioning open range. I wouldn't be interested in anything that incorporates this. So, I
+might as well just paint it in there. In fact, I can fairly easily say that I wouldn't be interested
+in anything inside of this area. And that top there, guys, is just these two body tops. The reality
+is I'd like to see it clear these wicks here, too, which is actually higher. But this is my minimum
+operating open range. You see that there? Tried to push up here on the S&P, guys, but I need a whole
+lot more clarity here before doing anything. Lackluster on the Dow here, kind of neutral on the S&P
+and really not doing much on the NASDAQ as well. Unless we have a break and a close outside of this
+range, guys, I won't be interested in longs. And unless we have a break and a close below here at
+the very least, maybe even down here, I wouldn't be interested in shorts. So, this is already
+shaping up as a no trade warning. It's 950. We still have plenty of time here. My dynamic open range
+expands to include this little wick. And so this is my operating range that I would need to at least
+exit with some clean price action in order to get interested here. Got this wide ranging 30inut
+candle really accomplishing nothing. And the small daily candle just hanging out waiting for FOMC
+this afternoon. All right, guys. We're back. It's 10:30 and this candle closes in 3 seconds. We're
+back in the range here. Tried to push up a little bit here. Didn't get back to the top of my dynamic
+open range. And this is looking very lackluster. All right, guys. We're back. We're actually at new
+session highs here on the S&P. Despite the grinding nature of this, really struggling here at that
+zone on the NASDAQ until I see a 30-minute candle here, guys, breaking and closing into this clean
+traffic, I'm not interested. So, that won't even happen for another 26 minutes or so. And it's now
+10:33 a.m. So, I'll be back at that time. And while we're waiting here, guys, let me just show you
+my zone break framework so you can understand what I'm talking about. First, we want to identify a
+period of consolidation or congestion after a move. There's a move and then there's a consolidation
+or congestion, this whole range here. Then we wait for price to break and close beyond a key 30
+minute zone marker. Here's the key 30 minute zone marker. So, I want to wait for price to break and
+close beyond that zone marker. Price must be entering and closing into a clean traffic range.
+Entering and closing into a clean traffic range. This is what we're talking about right here. Then I
+want to enter on a subsequent break of the signal candle. That means this candle, for instance,
+needs to break and close up here and then break that closed candle. So, that can't even begin to
+happen for another 23 minutes here. To qualify, the current move should not be overextended, right?
+This would not be overextended. There should be a recent pullback on a lower time frame before
+entry. And that's what you would see on the one minute chart. And it would also show up in the form
+of a bottom wick like this one right here is a pullback on a lower time frame before going higher.
+You want to seek higher time frame support for the trade idea. So, a daily bullish body for
+instance, which we do have today. We want to seek correlated asset support for the trade idea if
+available. For instance, the ES being at session highs like it is right now. The price action should
+be clean and orderly and then be cautious of zone breaks during slow market times of the day. We are
+still in the market open period. So that would qualify. Let's see what we can do here, shall we? All
+right, guys. We're back and there's one minute left on this 30-inut candle and as you know, I'm
+looking for this to break and close inside of this clean traffic range. Well, it actually pushed up
+reasonably well here, fairly well, but now it's pulling back towards the close. And so, even if this
+close is just above that marker or on that marker, I am not interested in going long here. In fact,
+it's getting weaker and weaker as the candle is about to close. It cannot seem to close in that
+clean traffic range. And so, there's no trade for me here, guys. It's 11:00 in about 30 seconds, and
+this will be a no trade day for me. Thanks for being here, guys. I appreciate you. Have an amazing
+afternoon and get ready for FOMC interest rate decision this afternoon and we'll talk to you soon.

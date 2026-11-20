@@ -1,0 +1,44 @@
+Hey guys, Z here. Hope all is well and trust you're having a good day. It is Wicked Wednesday, Hump
+Day, May 20th. And it's 4:50 a.m., 1 hour and 50 minutes into the London session. This is my London
+early take video with my commentary on how I think I may have traded the London session. If I traded
+it in real time with the great benefit of hindsight, of course. As you can see on the daily frame,
+we have two resting days, neutral days, inside days with bullish bodies now, but we will see how
+that unfolded here. On the 30-minute time frame, you will see yesterday right here. As you can see,
+we kind of pushed down in Asia, pulled back up into the open of London, selling back down again, a
+very strange and volatile New York session on the open, pushing up first, selling down hard,
+reversing back up again, rallying all the way up into kind of the midday and slightly thereafter,
+and then selling down into power hour and beyond. There's Globex, very uneventful, Globex sideways,
+sideways through all of Asia, and then we started to rally up a little bit, but still inside of this
+grind, and then pushing up inside of this grind, this leg that was formed in New York. And so, these
+candles are largely irrelevant because they're inside of all this stuff that kept on going up and
+down. Zigzag, zigzag, zigzag, and so on. Things only become somewhat relevant when we break and
+close above this bracketed area in the pre-market, and then we break above that again. And so, I'm
+thinking, well, there might be a long opportunity here. It'd be really cool if there was a turbo
+zone here to the left, but we do not have a turbo zone or clean traffic area, or even weak zones. We
+have a rather strong zone here in the New York session where we drove up with a lot of vim and vigor
+and then were rejected here with these wicks and sold down. That was previously confirmed or pre-
+confirmed here in another zone up above. And so you can see that we are sort of moving higher here
+into a key area that I would not want to trade into in London. If this was New York, I would
+consider it under certain circumstances, but I can already tell you that this is very likely a no
+trade day, even though we pushed higher. The fact that this pushed higher is not relevant as to
+whether I should have taken a trade or not. The market can do whatever it wants and prices are
+largely random and uncertain. My job is to enter optimal setups without key areas of rejection in
+the way. And so I would not be taking a long into this. And this is without even looking at the
+1-minute chart, and that's because I don't trade the 1-minute chart. I trade the daily inside day
+bullish body and I trade the 30-minute chart. In fact, the 30-minute chart is the setup time frame,
+right? This is the frame, the setup, and the execution or the tide and the waves where the power and
+the torque is, and the ripples. The ripples don't matter until the very last minute, but only if we
+have a story here. And so I can tell you right now because of this and this that I would not be
+taking a trade in through here. This is the area of resistance right here. Can you see that? And I
+would not be trading into that, guys. And so it doesn't matter what happens here. And of course, as
+you can see, we had a very wonky, entrenched in the open range, a little push up, a little pull
+down, back inside the open range EMAs. Both EMAs never really leaving the open range until
+significantly later, and then we have this push up here. If I only traded the 1-minute chart, this
+would be a sort of ascending triangle type pattern, a micro zarfoid blast, but without the proper
+impulse wave leading into it, and so on and so forth. But, I don't trade the 1-minute chart, and I
+certainly would not trade into this from New York. If that was London, maybe. Turns out it was both.
+If that was Asia, possibly. But, not the way it is right here. And if you're looking at this and
+thinking, "Darn, I should have taken that." That is absolutely incorrect. You should not have taken
+it because of this, this, and this. And you can see here, we are rejecting already. And so, this one
+really is a no-brainer, guys. No trades here in London. Hope you enjoy your break until New York,
+and I will see you there.

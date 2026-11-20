@@ -1,0 +1,9 @@
+hey guys Zar here for a quick flash chat about taking advantage of zones you can see here in the
+London session that's this color you see behind here this is Asia this is London London open if you
+remember was very very quiet there was a very tight Asian range it looked like nothing was going to
+happen but then we broke down into this next Zone I was able to take a nice short here for a win
+waited for the pullback breaking closing to the new Zone was able to take another short in through
+here for another win a nice pullback through here didn't touch it again until we broke down into the
+Zone took a third trade here for a third win for that that wickville trade and so we've been trading
+all three of these zones just taking advantage of the structure that we created much earlier today
+before London even opened hope that helps talk to you soon

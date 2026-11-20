@@ -1,0 +1,12 @@
+date,session,long_frac,short_frac,long_ruleP,short_ruleP
+2026-11-19,London,0.23,0.2,loss,loss
+2026-11-18,London,0.2,0.11,loss,no-break
+2026-11-16,London,0.13,0.41,loss,win
+2026-11-16,NY,0.27,0.3,no-break,loss
+2026-11-13,London,0.42,0.17,open,loss
+2026-11-12,London,0.34,0.25,loss,no-break
+2026-11-11,London,0.5,0.13,loss,no-break
+2026-11-10,London,0.2,0.23,no-break,open
+2026-11-10,NY,0.22,0.64,loss,no-break
+2026-11-09,London,0.63,0.11,win,no-break
+2026-11-06,NY,0.24,0.35,no-break,no-break

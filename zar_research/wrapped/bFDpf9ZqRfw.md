@@ -1,0 +1,65 @@
+Hey guys, Zar here. Hope all is well. Trust you're having a good day. Happy hump day, April 9th.
+Here's the daily frame going in, guys. NASDAQ, S&P, and Dow. You can see that we technically have
+down days, down day and down day because we broke yesterday's low, but functionally really a
+contracting pattern inside of Monday's wide ranging candle with that big fake news wick that we
+failed to break above uh on the NASDAQ anyway yesterday on the open. And so now we have this little
+tiny body on the NASDAQ, small body on the S&P, a little bit bigger here on the Dow. But, uh, you
+can see that we're basically, uh, bearish to neutral here coming into the open. In terms of the
+VWAP, guys, we're just above balance here. Not much going on there from that front, but it's been a
+weak morning, but now rallying back up. This, by the way, guys, is my new trading grid. I announced
+it this morning on my Telegram channel. My private students have been using this for some time with
+uh with great success uh for the most part. And uh you can see that it's exactly the same as my
+former grid which is here daily 30 minute and one except for the way the charts are laid out. So
+it's still the daily, the 30 minute and the one but now from left to right intuitively as you would
+read a book from left to right. So daily flows into the 30 and flows into the one. The prior grid
+guys was daily and 30 and one kind of going in a circle like that if you know what I mean. And so
+not a major change but uh this seems to be something that uh because of the intuitive nature of it
+and keeping the charts fairly symmetrical in terms of size seems to make sense to uh the mindset and
+the mind frame of many traders. This oscillator down below guys is just a placeholder. You can use
+whatever you want. Some traders will use no oscillator. I don't really use them myself, but you
+might have an RSI, a MCD, a Chand oscillator, rate of change, ATR, uh, Williams percent, R, whatever
+you want if you want to use an oscillator at all, but I just put it there just as a kind of a tool
+placeholder for you to do whatever you like. So, here we are, guys. We are now open on the uh, New
+York session. As you can see, we have the first two candles like you would normally see on my other
+grid right here. There's my That's a two-minute chart. Let me just make that one minute chart. There
+it is. So, you would normally see that over here, but now you'll see it still in the same place, but
+over here. All right. I'm still going to use the two sisters like you see here for the opening range
+and to see alignment, synchronicity, and what have you. 78 point range, guys, for the NASDAQ on the
+open and 19 or 20 points for the S&P. Pushing up here now. Nothing for me to do. Just going to be
+monitoring this on this nice new grid. Not a major change, guys. You can see on the 30-inut chart,
+we do have a range up here where we had four, five, six candles or so from uh the early UK session
+where prices could not get any higher. I'm going to see how prices act and react here and then take
+it from here. We have flipped bullish by the way on the body on the uh daily candle there. See that
+there? Daily 30 and one. Nothing to do here, guys. Pretty good alignment between the two sisters.
+But we are pushing up into this zone. I do want to see how prices act there. Just going to be
+patient here, guys. Just bringing out a marker here, guys. Doing some thinking and measuring. All
+right, buy stop order, guys. Right above this candle. Stop below that same candle. Here we go. I'll
+explain why. And I'm in, guys. I'll explain why in a moment. And now it's the waiting game. And
+target one has been hit, guys. And so the 1 hour all or nothing trader has left the game with full
+profits. And the 2 R move stop to break even at 1 hour has moved their stop to break even because we
+hit one R. And now we'll wait and see what happens to the rest of these players. Why am I long,
+guys? Well, that daily there failing to continue to sell down after breaking yesterday's low. Then
+the body flipping bullish is a bullish sign. Pushing up here, guys, in the pre-market, signaling an
+intention of buyers and bulls to come in when they did on mass here on the open. First pushing up
+just slightly and then pulling back orderly, but but losing steam in a bullish EMA configuration,
+nine above 21 with rising EMAs. then finding support one two bodies and then this big shift candle
+all of a sudden you saw me immediately pull out the marker once that shift candle uh exploded here
+to the upside and actually finished above the high of the session. See that almost the lowest candle
+of the session to the highest candle of the session in a one one minute candle is fresh buying with
+with the positive moving average configuration signaling the intent. This is an influx of buyers,
+guys, to continue that pre-market momentum, that flipping of the daily body to bullish. But there is
+nothing obvious about any of this stuff, guys. This is a very dangerous market. Tons of volatility
+and lots of twists and turns and anything can change at any moment. the slightest hint from the
+White House on anything or from a Congress person or from somebody in the press uh can have this
+thing drop in a heartbeat and uh and take me out as many of you are knowing from your own trading
+endeavors of late. These are tricky markets, guys, no matter how you slice it. All right, guys. as
+we've pulled all the way back to my original entry. And so the 2 R move stopped to break even at 1 R
+has been stopped out at break even. All right, guys. We're back. And as you can see, a lot of time
+has passed here. Lots of grinding and we tried to make another attempt higher here, but it looks
+like we're going to get stopped out at the original stop. And so the most conservative trader, the
+one R all or nothing trader will be the winner here today. And the two-hour move stop to break even
+play great defense at a break even result. And the other two traders took a 1-hour charge, but this
+is the one-hour win to put in the books to start the day here. But I think we're about to end this
+video in a few more moves here. And there it is, guys. Pulled all the way back. Thanks for joining
+me. Appreciate you. Nice one to start the day. Probably to finish the day given that it's now 11
+o'clock. But thanks for being with me. Appreciate you. Have an amazing afternoon.

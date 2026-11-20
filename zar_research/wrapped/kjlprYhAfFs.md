@@ -1,0 +1,50 @@
+hey gang it's Zar here just wanted to have a quick discussion on naked charts versus busy charts as
+most of you know here on the telegram group and and uh in our little Community here that I came in
+this morning um pre-london right just I'm still during the Asian session but pre-london around two
+o'clock in the morning my time and so whatever we do every day and this is what my charts look like
+and completely naked and then with a within a few minutes really um and building as we go my charts
+look like this because I map out support and resistant zones and various arrows for clean traffic
+and looking at where prices have rejected before it rejected before and what have you of course I
+always have my sessions on here so I come in around during the end of Asia or during Asia before the
+pre-london and then trade all the way through London and then New York open and then trade all the
+way through New York and it's only um 10 38 here in the morning so we're still very much in the
+early part of the New York session but look at all the stuff on my charts very useful stuff very
+powerful stuff I've taken four trades today all the winners and that's not always the case but it is
+today and um it's you know in large part because of the work that I've done here in the mapping but
+this is so now we have a busy set of charts these I have a busy set of charts here and what I'm
+going to do now is clean them completely up I need to get a fresh perspective the New York session
+is very whippy it's doing a whole bunch of stuff and I want to make sure that I get a clean clear
+perspective on what's going on I can leave these zones up here because they're kind of out of the
+way we're not really inter interacting with them you see this very clean traffic up here to the left
+if we get up into this Zone things are going to move right as I mentioned this morning on one of our
+videos this dotted line is a weekly high or a weekly low it's kind of a weekly pivot there it's a
+weekly low in this case and I'm just going to leave that one there as well but now to come back to
+here and say what do I really need to have on here in terms of mapping this is the most recent
+action right bear with me for one moment I'm actually going to just take a quick trade as I'm
+watching this happen in my with one eye to get a quick scalp here and I'll show you what I do in a
+minute um bear with me okay I'm now at break even watching this sell obviously this little sell-off
+happened right here need a little push all right I just closed that one out next I want to keep this
+video going here Five Points just a quick five points I think it's gonna go lower by the way um if I
+wasn't recording I'd stick with this one to the bottom of this body and you might see it go there as
+we speak all right naked chart what do I do now I'm still in New York very much in New York while
+the most important part of me right now is this piece right here I'm looking at this but I'm going
+to take it all the way back so I'm going to start again start again right now watch this I'm going
+to take it back to here I just want to connect it to something connected something and so that goes
+there this piece here but before that gets down to this Zone that I've already had from back here
+this is a key Zone by the way there's one more thing in the way and it's this and so I am going to
+highlight that as well slightly thinner because it's not as important as this one is but it's still
+important and then what I'm going to do is take a look back here and see how far this goes back yeah
+this is an important one I already had this one earlier but I'm putting it back now with a fresh eye
+my next Stone will be right here this is a funny one right so all this happened in the last 30
+minutes 10 20 30 minutes these are 10 minute candles but that needs to go there and now we have
+something to work with right right here something to work with right there you see that good and now
+we watch this was a zones this year talked about this this morning clean traffic and sure enough we
+just blasted through and closed that zone I don't need to have one there anymore because it's been
+negated this one has been negated by this and by this and by this and it's about to be negated by
+this all right so it doesn't matter anymore it's largely irrelevant certainly for scalping in this
+particular session that's what I think people sometimes get a little wrong there's a myth that these
+things need to continue to go uh through uh through time you know in perpetuity so it was speaking
+it's not true all right rejection rejection rejection those are critical layers and now we begin to
+look with a fresh eye to the rest of New York I'll probably join you later with some more trades
+here guys and uh I'll be sending this out to the telegram group so they can get a feel for what's
+going on talk to you soon bye bye now

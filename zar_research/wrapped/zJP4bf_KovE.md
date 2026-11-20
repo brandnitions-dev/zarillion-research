@@ -1,0 +1,67 @@
+Hey guys, Z here. Hope all is well and trust you're having a good day. It is Wicked Wednesday, hump
+day, April 8th, 9:26 a.m. 4 minutes to go until the New York open. As you can see, we've had a
+massive celebration overnight on the ceasefire, this temporary ceasefire in the Middle East. And we
+are now trading above all five key EMAs here on the daily chart on the Nasdaq, S&P, and on the Dow,
+at least for now. Huge rally overnight, probably a ton of short covering through the Globex in the
+Asian session. Let's take a look at the 30-minute time frame right here. And you will see that the
+majority of this move actually happened in Globex. This is the Australian open, guys, in the open of
+futures trading. We had a big push up and then a little flurry down, closing that gap for whatever
+reason, and then pushed up very, very strongly from there, right into the Asian open right here.
+Then we basically flatlined for a while. We did creep up a little bit more. That's actually a fairly
+good-sized move. It just doesn't look that big compared with this. But the majority of this move
+from down here to up here, I would say about 78, 80% of the move actually happened before Asia even
+opened. And that's something I will be thinking about here as we're coming into the session.
+Basically range-bound all the way through London. We had a little push up here at some point and
+then sideways again. Little blip and blah, blah, blah. Couple of pieces of news that came out.
+That's the Nasdaq, guys. Huge turbo zone down below with a large naked body here, another one here.
+And so lots of smooth sailing if we ever did get back down there again. S&P, very similar, almost
+identical picture as you can imagine, and that would be expected. Coming into the New York session,
+guys, this is the 1-minute chart. There's the Globex open range, and then pushing up into Asia,
+there's the Asian open range, and then pushing up a bit more into London, there's the London open
+range, and you can see how range-bound uh and choppy the London session was in through here. And so,
+we'll be opening in the next minute or so here just above or around the London open. I'll delete
+those now. And there's the 1-minute open range, guys. We're looking at 72 and 1/2 points, give or
+take. Dropping down to the 30-second chart. Most likely it'll be fast market conditions here.
+Dropping immediately below the open range. Just dropping down a little bit here below. Now pulling
+back. Fairly lackluster considering what's happened here overnight in terms of news and price
+action. Let's bring it out a marker here, guys, for now. Framing out an idea. All right, sell stop
+order, guys, for now. I may cancel that. About 80% of that update, guys, that massive gladiator
+candle actually came from the Australian session, the Globex session. That wasn't the way the
+Europeans felt about this. The Asians were somewhat bullish, but didn't exactly jump all over it.
+But look at this. This is likely massive short covering. Frantic attempt to get out of the bets on
+World War III set to begin at 8:00 p.m. last night. Then all of a sudden some early news saying,
+"Nope. World War III is canceled." And that thing went to the moon. The majority of what you're
+seeing right here on this daily candle and on these daily charts happened during the Globex open,
+typically a very, very low volume time. And low participation time. So far, North Americans are not
+exactly jumping all over the bargains in this market. And I'm in, guys. I am in short the Nasdaq.
+And target one has been hit, guys. So why am I short here, guys? Well, hopefully it's fairly self-
+explanatory, but we have a massive gladiator candle. I'm fading the daily candle. This is the kind
+of candle I like to fade when it comes to the daily. It's normally high risk to fade the daily
+candle, but not when 80% of the move happened in Australia, the open of Globex. This gigantic move,
+massive short covering, no doubt in the futures market, much of it probably accomplished right about
+here. A few more or and drabs of those futures contract shorts would have been taken out overnight
+here in Asia. Asians rallied at a little bit higher, but most of it was done here. The Europeans
+weren't particularly bullish at all. They came in, including overlapping American traders like
+myself, came in here and certainly weren't in an overly aggressive buying mood, far from it. Was
+just choppy and sleepy. And then we come to the US session, the actual owners of the index, and
+where the actual regular trading of the constituents of the NASDAQ 100 index actually begin to
+trade, right here. Of course, there's pre-market trading in some of those, too. But what happened
+here, guys? The 1-minute open range was about 62 points or so, but we never spent 1 second or 1 tick
+above the open range. We have this incredibly good news that came out of the Middle East. World War
+III has been averted. There's a ceasefire for at least 2 weeks. Good things are happening. Amazing
+stuff. And all the buying happened when Asia wasn't even open. Europe wasn't even open. The US
+certainly wasn't even open. And when America finally opens, they actually sold it down right out of
+the gates. Dropping down, pulling back, break and retest 9 squeezing into the 21. I simply sold the
+low of the day for a continuation move lower. This is the kind of extreme candle, massive extension
+by any historical measures. This is the kind of candle I have no problem fading. In other words,
+going against. Even in Europe, guys, they made a push here, driven down, tried it again, tried it
+again, 1 2 3 rejections in the pre-market there, and then here again on the first US candle. Now, in
+this kind of environment, of course, that is so news-driven and news-sensitive, there's no guarantee
+that we'll go further beyond 1R, but 1R has been accomplished, and that is in the books. And we're
+back, guys. It's 10:26, almost an hour into the session. Really just grinding along. This is still a
+30-second chart. Let me try the 1-minute chart. Yeah, let's stick with the 1-minute chart. Clean it
+up a little bit. Not quite as busy. You can also very clearly see the break and retest of the open
+range here. And the magical 1 and 1/2 hour has been hit. And there it is, guys. Took a while to play
+out. A little sleepy along the way, but we finally got there. Thanks for joining me. Appreciate you.
+Have an amazing afternoon and I will see you tomorrow for Thirsty Thursday and more fun and games.
+Talk to you soon.

@@ -1,0 +1,59 @@
+Hey guys, sorry here. Hope all is well. Trust you're having a good day. It is Twisted Tuesday, June
+23rd, 9:27 a.m. 3 minutes to go until the New York open. As you can see, we have two very strong
+down days. Big down days taking out 5 days lows on the Nasdaq, taking out 6 days lows on the S&P.
+Bearish bodies, as you can see, basically hitting session lows as we speak. 30-minute time frame
+here, guys, on the Nasdaq. There's yesterday, Asia, Europe, New York. You can see that we open up on
+Globex, sold down a little bit, pushed up a little bit in Asia, and then just dropped in a freefall
+move, along with the Nikkei and a bunch of Asian indices also getting hammered. Most of this damage
+was done in Asia, a little bit more in Europe. And now dropping down to session lows again on the
+Nasdaq. A little firmer on the S&P, but most of the damage done in Asia as well. Sideways in a range
+here during Europe, and still have not broken the low that was set in Europe. This is the S&P. The
+500 blue chip names are holding up a little bit here for the time being, but we're not even open yet
+for another 2 minutes or so on New York. Nasdaq has broken the low in Europe and continues to sail
+down, as you can see. I'll be back on the open. And there's the 1-minute open, guys. We're looking
+at 82 points for the open. Just dropping down on my 30-second chart here. Very weak-looking daily
+picture and 30-minute picture here, guys. Curious to see if these North Americans want to continue
+selling this thing or are they going to buy up some bargains here right on the open? I'm certainly
+going to be very patient here to watch, to observe, to see what the Americans might want to do here.
+Just dropping down this zone marker along the equal body bottoms. Taking out this zone marker. I
+think it's very reasonable to expect a tug of war here, guys, between the bulls and the bears, at
+least out of the gates here. And it's 9:39, guys. Just hanging about here. Not much going on. Just
+bringing out a marker here. All right. Buy stop order for now, guys. Buy stop order. And I'm in,
+guys. I am in long the Nasdaq. And now it is the waiting game. And tug of war has been hit, guys.
+So, why am I long here, guys? Hopefully, it's self-explanatory. Very big down day. Super extended on
+the 30 minute chart. In fact, as I showed my private group this morning, whenever I see this kind of
+impulse wave down, I will throw on my EMAs and absolutely expect a pullback to at least the nine,
+often the 21 EMA, which we're getting now. In fact, the pullback this morning to the 21 EMA takes us
+all the way to about one and a quarter R, almost one and a half R, but I'm expecting more than that,
+of course, here, or at least hoping for more than that, to get to the promised land, but very
+extended. The Americans sold out just a little bit here on the open, guys, on the one-minute open
+range, but then almost immediately began to buy this thing up. So, the Americans are basically
+saying here, we do not agree with what the Asians did to the Nasdaq index and to the S&P and to the
+Dow, for that matter, and we are going to buy this thing back up again and take advantage of those
+bargains. And that's precisely what you're seeing here, of course, this morning. And we're about to
+hit one and a half R if this continues to play out. But there are certainly no guarantees in this
+volatile environment. We are simply guessing on the path of least resistance based on the story that
+we developed from the daily to the 30 to the one, in this case, 30-second chart. And the magical one
+and a half R has been hit. And as you can see, guys, I have quite a large target here to hit, and
+that's because my stop is below the open range. And the reason I didn't place my stop here below
+that pivot is because I'm fading the daily candle. This is a very big sell-off here in the broad
+market, as you can see, and so I always want to make sure that I give it enough room to work. If
+this was anabolic flow, in other words, if I was trading in line with the daily, this was a strong
+up day or had a bullish body, then I would likely have my stop down below here, and I would be long
+since done this trade at two R. But I always want to give it some extra room to work. When I'm
+fading the daily candle and it's still fairly early in the session. If you remember, this was still
+inside of the first 30-minute candle. This was 9:39, just 9 and 1/2 minutes into the New York
+session, right out of the gates. Hey guys, Zar here, back with you. It's 11:30 and that means the
+close of Europe. We have pulled all the way back down here to the open range. I now have the option
+to dynamically manage my trades. And what I'm going to do first of all, guys, is to flip back up to
+the 1-minute chart to clear this up a little bit. Just to make it a little cleaner. There we go. And
+now what I'm also going to do is to set my take profit to break even here, guys, on the last model.
+This is the two R all or nothing model. If we pull back up to break even, I will get out at break
+even or it will pull all the way back and it will be a one R charge. And so, here's what it will
+look like, guys. If we can rally up to break even, it'll be a one R win right here. It'll be a one
+and a half R win right here. And then it will be two break evens, one, two on the two R all or
+nothing or on the two R move stop to break even at one R. Just need prices to rally back up to that
+level there. Otherwise, it will be one R charge on the two R all or nothing model. And there it is,
+guys. Pulled up to break even and so it's a one R win, one and a half R win and two break evens.
+Thanks for being with me. Appreciate you. Hope you have an amazing afternoon and I will see you
+tomorrow for hump day and more fun and games. Talk to you soon. >> Mhm.

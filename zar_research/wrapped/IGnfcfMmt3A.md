@@ -1,0 +1,78 @@
+Hey guys, sorry here. Hope all is well. I trust you're having a good day. It is Wicked Wednesday,
+hump day, May 6th, 2026, 9:28 a.m. 2 minutes to go until the New York open. As you can see, the
+rocket ride continues. This rampaging bull market has once again hit all-time highs overnight and
+again this morning, pulling back a little bit now, but there's all-time highs, up day on the Nasdaq,
+up day, all-time highs again on the S&P, and a strong up day on the Dow, but not at all-time highs.
+On the 30-minute time frame, guys, you can see that we were just kind of grinding higher here in the
+Asian session overnight after a big after-hours celebration on earnings yesterday after the close of
+regular trading hours in New York. And then Australia rallied hard. Asia erased all of that and then
+started to grind up higher here. Big explosive move on positive news nearly 2 hours into the London
+session. And then it just kept on advancing higher, one candle after the next here on the 30-minute
+chart, and then put in a textbook three-bar reversal, sold all the way down, almost covering this
+naked body, basically virtually covered, I would say. And now hanging about in the span of travel of
+that candle. On the S&P, it's a very similar picture. We haven't retraced quite as much of that
+candle. We haven't even entered the naked body here, guys, on the S&P, which of course we did on the
+Nasdaq. You see that there? Slightly different, but the overall structure is very, very similar
+indeed. On the 1-minute chart here, guys, just showing the London open range, that rocket ride has
+now been completely, almost completely erased right back down to the London open range. Very
+interesting reversal here, guys, and we are open on New York. And there's the 1-minute open range,
+guys. We're looking at 55 and 1/2 points. Just moving down to the 30-second chart for now. I would
+say this is pretty fast market conditions, to say the least. Very interesting complete V reversal
+here, guys, on the 30-minute time frame, but we are still trading well above the span of travel of
+yesterday. This is a very bullish picture, even with that pullback. I don't really have a defined
+dynamic open range here, guys. I'm going to use the 1-minute open range and that London open range
+down below. But I suppose at the very least, guys, I'll just use this little pre-market area here
+and the bottom or the underside of the London open range. Now I can delete the London open range
+because I've encapsulated it in my dynamic open range. All right. So, we had 1 minute of downside,
+but never trading 1 second below the open range, not yet. But we still have 26 and 1/2 minutes to go
+in that first 30-minute candle. And that can be a long time to wait when you're just itching to
+participate in a market that's actually moving here. But I'm going to be very patient. Pushing up
+above my dynamic open range and now pulling back a little bit. I'm just going to delete this dynamic
+open range, guys. I don't actually think it's very useful, given that we have so much structure to
+work with here on the daily and the clean 30-minute chart. >> And pulling all the way back now to
+the open range, guys. We have a sort of break and retest here with EMAs outside of the open range.
+Just bringing out a marker here. All right. Buy stop order, guys. Buy stop order. Stop below current
+pivot in the making and below the top of the open range and below the shift candle that broke and
+closed outside of the open range. And I'm in, guys. I am in, just like that. Long the Nasdaq. Now,
+it's the waiting game. And target one has been hit, guys. So, why am I long here, guys? Very simple
+trade idea, anabolic flow. Very strong up day on all three sisters. Impulse wave in the premarket,
+beautiful orderly pullback before the New York open. We didn't spend one moment below the open
+range. Buying came in almost instantly. EMAs exiting the open range. Clean break and retest of the
+open range. Now I'm squeezing into the 21, giving it a few candles here to put in a little bit of a
+base and breaking above for an early entry or resumption entry on a T-con trade. T-con means trend
+continuation. Impulse, corrective, impulse. At least potentially. But all leveraging off the strong
+daily, the tide and the waves and the ripples all telling us the same story. But there are certainly
+no guarantees that we're going to go any higher than 1.4R. And target two has been hit. And pulling
+all the way back down here, guys. About to get stopped out on the last model. One more little push.
+But in the meantime, we got a 1R winner, we got a 1.5R winner, we got a break even. Only the 2R all
+or nothing trader will take a 1R charge here as we pull all the way back down. Very strong setup,
+very nice trade. They don't all go to the most extreme target, and that's just the nature of the
+game. And we're back, guys. And as you can see, we came awfully close here. Not quite stopped out.
+As you know, if you've watched over 1,400 or 1,500 of my videos, I always want to see price cross
+lines. That means crossing profit target lines here, here, and way up here, or stop losses for that
+matter. In fact, on my platform, my stop is a little bit lower. It's even down here, further. I
+always give it a little bit of room for play. So, as you can see, guys, we didn't cross the line.
+But what I'm going to do here for the snapshot, to make it very clear, is just to drop this marker
+down a little bit. You see that there? Just to make it a little bit more clear. I want to be
+completely transparent that I'm doing that to be more accurate about my actual platform and for the
+trade snapshot. As most of you know, I don't actually trade from TradingView. This is only for
+illustrating how the trade is configured, my precise candles of entry, and pretty much my precise
+stop loss level and precise profit level. But I'm extremely consistent about demanding profit
+targets to be hit with price entering or crossing the lines. Otherwise, I don't count them as
+profits. And so I do the same thing here with stop losses. And so here's another example, guys, of
+what I call double or triple protection stop losses. If I just use this pivot on the entry, the
+pivot in the making right here, or even just below the open range, I would have been stopped out. If
+my stop was below the pivot or below the top of the open range, which I sometimes use, I would have
+been stopped out. But if you remember at the time of entry, I included this big shift candle. This
+is a key candle here, guys, that exploded and broke and closed outside of the open range. And so I
+incorporated that, too. Always giving it a couple of points at least down here. And that's what
+saved me here, at least so far. It can certainly still come back. But this is a great case study on
+double or triple protection stop losses. The first protection is the current pivot. The second
+protection is the top of the open range. The third protection is the key shift candle and being a
+couple of points or so below that. And this is why I do it. It saves me often enough for it to be a
+resourceful trade-off in terms of distance to stop versus targets. And what I mean by that is if I
+had my stop here, that means 2R would also be closer and easier to get. And so that can be very
+tempting for obvious reasons. And there it is, guys. We finally made it. Took a while. Lots of meat
+grinding, chopping, and grinding, and whipping. We we got there. Thanks for joining me. Appreciate
+you. Have an amazing afternoon and I will see you tomorrow for Thirsty Thursday and more fun and
+games. Talk to you soon.

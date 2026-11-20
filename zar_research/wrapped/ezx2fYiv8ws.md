@@ -1,0 +1,67 @@
+Hey guys, Zar here. Hope all is well. Trust you're having a good day. It is Twisted Tuesday,
+November 4th, 2025, 9:28. About two minutes to go before the New York open. And you can see that we
+have quite a day here, guys, on the three sisters. We have taken out two, four, six days right into
+this gap move here on the daily on the NASDAQ. Something very similar pulling all the way back to
+the 21 EMA on the S&P and the 21 EMA just above now on the Dow, but taking out several days on all
+three. It's a very weak looking picture here, guys. Overnight, of course, in Australia, we opened
+up, drove all the way down, rested for two candles before Asia, then drove all the way down through
+Asia, rested for three or four candles going into London, drove down again, and then pulled back up
+during London, erasing the entire London drop. Now, we are sitting dead center in the span of travel
+of that most recent uple and down leg. So, this is the range that I'm going to be watching very
+carefully. Very similar picture on the S&P 500. There's the drive down. There's the leg. There's the
+center point of that most recent leg. Impulse corrective. Remains to be seen where we go from here.
+You'll notice on the one minute chart, guys, showing the London open range. You can see how we have
+respected London several times here in a very precise way almost to the tick on all of these six
+tests or one top and then five retests if you will. And now driving down into the open here. open
+for 14 seconds so far. And there's the one minute open range, guys, on the NASDAQ. 38 points average
+range and then nine and a quarter on the S&P. Going to be very patient here today, guys. After that
+big move down, we are certainly extended. Doesn't mean overextended, but we are extended by any
+measure here on the daily. We are in that range. I likely won't do anything inside of this range no
+matter what. Unless I do, of course, and I'll explain why if I do, but that's not likely. There's
+the New York open range. There's the London open range right above. And that's the open range that
+has been respected here, at least by the Europeans. But now the Americans have joined the picture.
+And I want to see if the Americans are as bearish as those Asians. And as the Europeans, the Asians
+really made this big bearish decision and many global institutional players of course too, but you
+get the idea. I'm going to drop down to the 30 second chart here for a bit, guys. I just have a
+feeling that things could turn into fast market conditions very quickly here. Of course, that's
+always the case, but today's feeling a little different. We have alignment so far, guys, early in
+the game. Curious to see how we act here after this buy up in Europe. Pulling back now towards the
+open range and back inside the open range. Nothing for me to do here, guys. Long as we're in this
+range. I'm not interested in viewing this as a break and a retest or anything like that or a TCON
+move. We are very much rangebound here, guys. All right, guys. I'm back pulling back up into above
+the open range. Still very much, of course, in this no trade range for me. Fact, let me get out a
+dynamic open range here, guys, to really solidify where I'll not be trading right there. So, it'll
+include the top of the London open range and the bottom of that piece right there. going to delete
+the London open range now just to keep things clean. So inside of here guys, I'll just put you on
+pause. So after that little initial push down and then a failure on a second on that sort of break
+and retest here, you can see that the Americans are saying no, let's buy this thing up now. And
+you'll notice that we have this turbo zone up above here on the 30-inut chart, guys. And naked
+bodies. Little one there, bigger one here, another big one here. And those can act as magnets.
+Certainly if the Americans think that the Asians took this down too far, too fast and back into the
+original one minute open range. All right, guys. I'm getting a little interested here on the long
+side. Buy stop order, guys. buy stop order. I'll delete my dynamic open range for now just to keep
+it clean and I'll explain what I'm thinking here by stop order. Here we go. And I'm in, guys. I am
+in long the NASDAQ on a break up into that turbo zone to cover those naked bodies as well as these
+Americans are saying we're not taking this thing down. We're pushing it up. Failing to make a new
+low 9 above 21 EMAs cleared the open range. impulse corrective break and retest of the open range
+night above 21 and looking to push up and potentially reverse some of the thinking of the Asian
+players. Certainly no guarantees here guys. This is a pretty wonky looking situation that we got
+going here. This is an example, guys, of fading the daily candle due to fairly significant
+extension. It's a difficult thing to do, but the owners of this index are the North Americans and
+they've come in here and they are speaking and voting right now saying that was too much and it
+wasn't on our watch. And target one has been hit, guys. And so the 1 hour all or nothing trader has
+left the game with full profits. And the two R move stopped to break even at 1 hour has moved their
+stop to break even because we hit 1 hour. So why am I long here guys? Well, we have this big
+extended move that took out two, four, six days right into a gap, but then failed to fill the gap
+here on the open. And in fact, even in Europe after this push down initially in London, the
+Europeans said maybe this went too far too fast and started to pull things back up again. Then
+rested for a while and waited for the Americans to show up to have the final vote. Turbo zone up
+above triple naked bodies one, two, and three. This acts as a magnet, guys. And target two has been
+hit, guys. And so the one and a half hour all or nothing trader has left the game as well. And I
+will say it's always difficult for me to fade the daily candle, especially a strong daily candle
+like this, but sometimes it makes sense if the units of conviction are all telling us the same
+story. Hopefully, you understood my thinking in this one. And there it is, guys. All four models
+fully profitable. The Americans have spoken and decided that it's time to buy. And so, the dip
+buyers came out here in full force this morning, and it's only 1000 a.m. on the nose. Thanks for
+being here. appreciate you. Have an amazing afternoon. I'll see you tomorrow for Wicked Wednesday or
+hump day. Take care. See you soon.

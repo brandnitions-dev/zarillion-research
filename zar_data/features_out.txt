@@ -1,0 +1,162 @@
+== London
+label                ambiguous  no_trade  trade  unknown
+pd_range_atr              0.83      0.93   1.06     1.01
+day_range_sofar_atr       0.51      0.46   0.48     0.54
+day_body_pct              2.00    -38.00  16.00   -46.00
+pos_in_PDR                0.87      0.50   0.16     0.39
+ovn_ext_atr               0.26     -0.12   0.08    -0.14
+ema200_dist_pct          -3.98     -0.84   3.03     3.08
+OR_atr                    0.14      0.07   0.10     0.12
+first30_body_pct         19.00     26.00  18.00    45.00
+sess2h_range_atr          0.17      0.13   0.25     0.23
+abs_body                  2.00     51.00  43.00    55.00
+abs_ovn                   0.26      0.25   0.25     0.22
+label                    ambiguous  no_trade  trade  unknown
+prior_inside                   0.0      0.29    0.0     0.00
+func_inside_at_open            0.0      0.57    0.0     0.22
+sisters_aligned_sofar          0.0      0.57    0.2     0.44
+sisters_aligned_first30        0.0      0.86    0.6     0.78
+sess2h_inside_PDR              0.0      0.57    0.0     0.22
+loc_vs_PDR  above_PDH  below_PDL  inside_PDR
+label                                       
+ambiguous           0          0           1
+no_trade            2          0           5
+trade               0          1           4
+unknown             1          2           6
+label
+ambiguous    1
+no_trade     7
+trade        5
+unknown      9
+dtype: int64
+== NY
+label                no_trade  trade  unknown
+pd_range_atr             1.52   0.94     0.99
+day_range_sofar_atr      0.76   0.54     0.62
+day_body_pct           -64.00  -2.00   -28.00
+pos_in_PDR               0.29   0.70     0.12
+ovn_ext_atr             -0.36   0.06    -0.12
+ema200_dist_pct         -0.84   0.60     2.02
+OR_atr                   0.42   0.30     0.35
+first30_body_pct        58.00  20.00    25.50
+sess2h_range_atr         0.47   0.67     0.40
+abs_body                64.00  32.00    48.50
+abs_ovn                  0.38   0.20     0.26
+label                    no_trade  trade  unknown
+prior_inside                 0.00   0.13     0.00
+func_inside_at_open          0.33   0.27     0.25
+sisters_aligned_sofar        0.67   0.47     1.00
+sisters_aligned_first30      0.67   0.33     0.50
+sess2h_inside_PDR            0.33   0.07     0.25
+loc_vs_PDR  above_PDH  below_PDL  inside_PDR
+label                                       
+no_trade            0          1           2
+trade               3          2          10
+unknown             0          2           2
+label
+no_trade     3
+trade       15
+unknown      4
+dtype: int64
+== all
+label                ambiguous  no_trade  trade  unknown
+pd_range_atr              0.83      0.95   0.95     1.01
+day_range_sofar_atr       0.51      0.57   0.53     0.54
+day_body_pct              2.00    -42.50   2.50   -46.00
+pos_in_PDR                0.87      0.46   0.49     0.37
+ovn_ext_atr               0.26     -0.18   0.07    -0.14
+ema200_dist_pct          -3.98     -0.84   0.90     3.08
+OR_atr                    0.14      0.09   0.26     0.16
+first30_body_pct         19.00     46.50  19.00    42.00
+sess2h_range_atr          0.17      0.16   0.45     0.32
+abs_body                  2.00     61.50  35.00    55.00
+abs_ovn                   0.26      0.34   0.20     0.25
+label                    ambiguous  no_trade  trade  unknown
+prior_inside                   0.0       0.2   0.10     0.00
+func_inside_at_open            0.0       0.5   0.20     0.23
+sisters_aligned_sofar          0.0       0.6   0.40     0.62
+sisters_aligned_first30        0.0       0.8   0.40     0.69
+sess2h_inside_PDR              0.0       0.5   0.05     0.23
+loc_vs_PDR  above_PDH  below_PDL  inside_PDR
+label                                       
+ambiguous           0          0           1
+no_trade            2          1           7
+trade               3          3          14
+unknown             1          4           8
+label
+ambiguous     1
+no_trade     10
+trade        20
+unknown      13
+dtype: int64
+### scan London n_trade 5 n_no 7
+(np.float64(0.92), 'sess2h_range_atr', '>=', np.float64(0.22), np.int64(5), np.int64(1))
+(np.float64(0.83), 'sess2h_range_atr', '>=', np.float64(0.25), np.int64(4), np.int64(1))
+(np.float64(0.83), 'sess2h_range_atr', '>=', np.float64(0.19), np.int64(5), np.int64(2))
+(np.float64(0.83), 'pos_in_PDR', '<', np.float64(0.43), np.int64(4), np.int64(1))
+(np.float64(0.83), 'ema200_dist_pct', '>=', np.float64(3.03), np.int64(3), np.int64(0))
+(np.float64(0.75), 'sess2h_inside_PDR', '!=', True, np.int64(5), np.int64(3))
+(np.float64(0.75), 'pos_in_PDR', '<', np.float64(0.2), np.int64(3), np.int64(1))
+(np.float64(0.75), 'pos_in_PDR', '<', np.float64(0.13), np.int64(2), np.int64(0))
+(np.float64(0.75), 'pd_range_atr', '>=', np.float64(1.71), np.int64(2), np.int64(0))
+(np.float64(0.75), 'func_inside_at_open', '!=', True, np.int64(5), np.int64(3))
+(np.float64(0.75), 'first30_body_pct', '<', np.float64(5.0), np.int64(2), np.int64(0))
+(np.float64(0.75), 'ema200_dist_pct', '>=', np.float64(4.28), np.int64(2), np.int64(0))
+### scan NY n_trade 15 n_no 3
+(np.float64(0.89), 'pd_range_atr', '<', np.float64(2.49), np.int64(15), np.int64(2))
+(np.float64(0.89), 'ovn_ext_atr', '<', np.float64(0.69), np.int64(15), np.int64(2))
+(np.float64(0.89), 'ema200_dist_pct', '>=', np.float64(-4.22), np.int64(15), np.int64(2))
+(np.float64(0.89), 'day_range_sofar_atr', '<', np.float64(0.76), np.int64(14), np.int64(1))
+(np.float64(0.83), 'sess2h_range_atr', '>=', np.float64(0.31), np.int64(15), np.int64(3))
+(np.float64(0.83), 'sess2h_inside_PDR', '!=', True, np.int64(14), np.int64(2))
+(np.float64(0.83), 'pos_in_PDR', '>=', np.float64(-0.0), np.int64(14), np.int64(2))
+(np.float64(0.83), 'pos_in_PDR', '>=', np.float64(-0.54), np.int64(15), np.int64(3))
+(np.float64(0.83), 'pd_range_atr', '>=', np.float64(0.61), np.int64(15), np.int64(3))
+(np.float64(0.83), 'pd_range_atr', '<', np.float64(1.83), np.int64(14), np.int64(2))
+(np.float64(0.83), 'pd_range_atr', '<', np.float64(1.52), np.int64(13), np.int64(1))
+(np.float64(0.83), 'ovn_ext_atr', '>=', np.float64(-0.95), np.int64(15), np.int64(3))
+### scan all n_trade 20 n_no 10
+(np.float64(0.87), 'sess2h_range_atr', '>=', np.float64(0.22), np.int64(20), np.int64(4))
+(np.float64(0.83), 'sess2h_range_atr', '>=', np.float64(0.25), np.int64(19), np.int64(4))
+(np.float64(0.83), 'sess2h_range_atr', '>=', np.float64(0.19), np.int64(20), np.int64(5))
+(np.float64(0.8), 'sess2h_inside_PDR', '!=', True, np.int64(19), np.int64(5))
+(np.float64(0.8), 'OR_atr', '>=', np.float64(0.099), np.int64(18), np.int64(4))
+(np.float64(0.8), 'OR_atr', '>=', np.float64(0.09), np.int64(19), np.int64(5))
+(np.float64(0.8), 'OR_atr', '>=', np.float64(0.076), np.int64(20), np.int64(6))
+(np.float64(0.77), 'sess2h_range_atr', '>=', np.float64(0.29), np.int64(17), np.int64(4))
+(np.float64(0.77), 'sess2h_range_atr', '>=', np.float64(0.13), np.int64(20), np.int64(7))
+(np.float64(0.77), 'OR_atr', '>=', np.float64(0.136), np.int64(17), np.int64(4))
+(np.float64(0.77), 'OR_atr', '>=', np.float64(0.094), np.int64(18), np.int64(5))
+(np.float64(0.77), 'OR_atr', '>=', np.float64(0.089), np.int64(19), np.int64(6))
+          date  dow session      label    dir  pd_range_atr  prior_inside  func_inside_at_open  day_body_pct  loc_vs_PDR  ovn_ext_atr  ema200_dist_pct  OR_atr  first30_dir  sisters_aligned_first30  sess2h_range_atr  sess2h_inside_PDR
+40  2026-11-18  Wed  London  ambiguous  short          0.83         False                False           2.0  inside_PDR         0.26            -3.98   0.140           -1                    False              0.17              False
+26  2026-11-09  Mon  London   no_trade                 1.25         False                 True         -51.0  inside_PDR        -0.32            -4.22   0.248            1                     True              0.40               True
+28  2026-11-10  Tue  London   no_trade                 1.52         False                 True         -47.0  inside_PDR        -0.12            -0.72   0.094            1                     True              0.19               True
+30  2026-11-11  Wed  London   no_trade                 0.65          True                False          80.0   above_PDH         0.37            -1.31   0.070            1                     True              0.11              False
+32  2026-11-12  Thu  London   no_trade                 0.93         False                 True         -38.0  inside_PDR        -0.25             0.60   0.065           -1                     True              0.13               True
+34  2026-11-13  Fri  London   no_trade                 0.69          True                 True         -18.0  inside_PDR        -0.07             0.45   0.089           -1                     True              0.13               True
+36  2026-11-16  Mon  London   no_trade                 0.95         False                False         -63.0  inside_PDR        -0.23            -0.84   0.064           -1                     True              0.12              False
+42  2026-11-19  Thu  London   no_trade                 0.68         False                False          92.0   above_PDH         0.52            -3.77   0.070            1                    False              0.11              False
+2   2026-10-22  Thu  London      trade  short          0.73         False                False         -90.0   below_PDL        -0.92             6.36   0.151           -1                     True              0.25              False
+4   2026-10-23  Fri  London      trade   long          1.71         False                False          30.0  inside_PDR         0.16             3.03   0.090           -1                     True              0.22              False
+8   2026-10-27  Tue  London      trade   long          0.95         False                False         -57.0  inside_PDR        -0.25             4.28   0.076            1                    False              0.25              False
+24  2026-11-06  Fri  London      trade   long          2.49         False                False          43.0  inside_PDR         0.46            -5.96   0.136            1                     True              0.38              False
+38  2026-11-17  Tue  London      trade  short          1.06         False                False          16.0  inside_PDR         0.08            -3.46   0.099           -1                    False              0.29              False
+25  2026-11-06  Fri      NY   no_trade                 2.49         False                False          60.0  inside_PDR         0.69            -5.96   0.471            1                     True              0.47              False
+29  2026-11-10  Tue      NY   no_trade                 1.52         False                 True         -64.0  inside_PDR        -0.36            -0.72   0.419            1                    False              0.50               True
+37  2026-11-16  Mon      NY   no_trade                 0.95         False                False         -74.0   below_PDL        -0.38            -0.84   0.241           -1                     True              0.39              False
+1   2026-10-21  Wed      NY      trade   long          0.94         False                False         -18.0  inside_PDR        -0.04             5.96   0.270            1                    False              0.40              False
+3   2026-10-22  Thu      NY      trade  short          0.73         False                False         -80.0   below_PDL        -0.95             6.36   0.253            1                     True              0.69              False
+5   2026-10-23  Fri      NY      trade   long          1.71         False                False         -32.0   below_PDL        -0.12             3.03   0.335            1                    False              0.60              False
+7   2026-10-26  Mon      NY      trade   long          0.61         False                False         -19.0  inside_PDR         0.20             3.08   0.303           -1                    False              0.73              False
+9   2026-10-27  Tue      NY      trade   long          0.95         False                False          23.0  inside_PDR         0.16             4.28   0.286            1                    False              0.49              False
+11  2026-10-28  Wed      NY      trade  short          1.01         False                False          53.0   above_PDH         0.21             5.41   0.315           -1                    False              0.31              False
+19  2026-11-03  Tue      NY      trade   long          1.11         False                False          17.0  inside_PDR         0.06            -0.28   0.238            1                    False              0.32              False
+23  2026-11-05  Thu      NY      trade  short          1.83         False                 True         -91.0  inside_PDR        -0.60             1.20   1.040           -1                     True              2.02              False
+27  2026-11-09  Mon      NY      trade   long          1.25         False                 True          38.0  inside_PDR         0.30            -4.22   0.570            1                     True              0.83              False
+31  2026-11-11  Wed      NY      trade   long          0.65          True                False          82.0   above_PDH         0.49            -1.31   0.248           -1                     True              0.41              False
+33  2026-11-12  Thu      NY      trade   long          0.93         False                 True         -68.0  inside_PDR        -0.42             0.60   0.389            1                    False              0.67               True
+35  2026-11-13  Fri      NY      trade  short          0.69          True                 True          -2.0  inside_PDR        -0.01             0.45   0.358           -1                     True              0.76              False
+39  2026-11-17  Tue      NY      trade  short          1.06         False                False           7.0  inside_PDR         0.05            -3.46   0.156           -1                    False              0.70              False
+41  2026-11-18  Wed      NY      trade  short          0.83         False                False         -26.0  inside_PDR         0.12            -3.98   0.361           -1                    False              0.40              False
+43  2026-11-19  Thu      NY      trade  short          0.68         False                False          74.0   above_PDH         0.49            -3.77   0.218            1                    False              0.80              False
